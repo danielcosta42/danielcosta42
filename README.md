@@ -13,4 +13,5 @@ Desenvolvedor com diversas áreas de conhecimento, banco de dados por formação
   <a href="https://github.com/danielcosta42">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=danielcosta42&show_icons=true&theme=blueberry&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcosta42&layout=compact&langs_count=7&theme=blueberry"/>
+  </a>
 </div>
