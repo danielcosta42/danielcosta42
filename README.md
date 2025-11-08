@@ -1,17 +1,118 @@
-# 💫 About Me:
-Desenvolvedor com diversas áreas de conhecimento, banco de dados por formação, programação por ser o que mais gosto de fazer, analytics por amar números e adorar a diferença que eles fazem bem organizados e mais atualmente buscando me entender melhor com as pessoas ao redor. 
+<!--
+Dica:
+1) Crie um repositório público com o MESMO nome do seu usuário GitHub.
+2) Adicione este arquivo como README.md na raiz.
+3) Ajuste os links, projetos e usuário nos badges.
+-->
 
+<h1 align="center">Daniel Costa • Frontend Engineer</h1>
+<p align="center">
+  React • TypeScript • Micro Frontends • Azure DevOps • CI/CD
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/danielcosta.gif/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/danielcostaferreira) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/4957386) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Less](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
-# 📊 GitHub Stats:
-<div align="center">
-  <a href="https://github.com/danielcosta42">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=danielcosta42&show_icons=true&theme=blueberry&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcosta42&layout=compact&langs_count=7&theme=blueberry"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/danielcostaferreira" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel%20Costa-0A66C2?logo=linkedin&logoColor=white">
   </a>
-</div>
+  <a href="https://github.com/SEU_USUARIO_GH" target="_blank">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/SEU_USUARIO_GH?style=social">
+  </a>
+  <a href="mailto:seu.email@exemplo.com">
+    <img alt="Email" src="https://img.shields.io/badge/Contato-Email-informational">
+  </a>
+  <a href="https://upwork.com/freelancers/~seu-id" target="_blank">
+    <img alt="Upwork" src="https://img.shields.io/badge/Upwork-Open%20to%20Work-14a800?logo=upwork&logoColor=white">
+  </a>
+</p>
+
+---
+
+## 🇧🇷 Sobre
+Sou **Engenheiro Frontend Sênior** especializado em construir aplicações web **escaláveis e performáticas** com **React** e **TypeScript**, usando **arquitetura de micro frontends** e **pipelines CI/CD** (Azure DevOps / GitHub Actions).  
+Gosto de transformar complexidade em interfaces limpas, **com foco em UX, performance e qualidade contínua**.
+
+- 🔭 **Atualmente**: liderando frontends modulares, padronizando design systems e automatizando entregas.
+- 🧩 **Interesses**: arquitetura frontend, DX, automação, observabilidade e integração entre times (Front/Back/QA).
+- 🌍 **Objetivo**: colaborar com equipes internacionais (USD/EUR), remoto-first.
+
+> **Stack principal**: React, TypeScript, Node.js, Next.js, Module Federation, REST/GraphQL, Azure DevOps, GitHub Actions, Docker.
+
+---
+
+## 🇺🇸 About
+**Senior Frontend Engineer** focused on **scalable, high-performance** web apps with **React** and **TypeScript**, leveraging **micro-frontend architectures** and **CI/CD** (Azure DevOps / GitHub Actions).  
+I turn complexity into clean, maintainable interfaces with strong emphasis on **UX, performance, and delivery quality**.
+
+- 🔭 **Now**: modular frontends, design systems, automated pipelines.
+- 🧩 **Interests**: frontend architecture, DX, automation, observability, cross-team collaboration.
+- 🌍 **Goal**: remote-first, international teams (USD/EUR).
+
+> **Core stack**: React, TypeScript, Node.js, Next.js, Module Federation, REST/GraphQL, Azure DevOps, GitHub Actions, Docker.
+
+---
+
+## 🧰 Tech & Tools
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white">
+<img src="https://img.shields.io/badge/Testing-Jest%20%7C%20RTL-C21325">
+
+---
+
+## 🚀 Destaques (Highlights)
+- 🧱 **Micro frontends** com Module Federation e boundaries de domínio bem definidos.  
+- ⚙️ **CI/CD** com gates de qualidade (lint, tests, coverage, preview envs) e **release sem atrito**.  
+- ⚡ **Performance**: code-splitting, lazy, memorização e observabilidade (Web Vitals).  
+- 🤝 **Colaboração**: padrões de PR, documentação viva, handoffs eficientes entre squads.
+
+---
+
+## 📦 Projetos em Destaque
+> *Adapte com seus repositórios públicos. Se algum projeto é privado, use prints e descrição anônima.*
+
+1. **react-enterprise-starter** — *Boilerplate de arquitetura enterprise para React/TS*  
+   - Módulos por domínio, lint & test pipeline, storybook, padrões de pastas, husky, commitlint.  
+   - **Stack**: React, TS, Vite/Next, RTL/Jest, Storybook, GH Actions.  
+   - **Link**: https://github.com/SEU_USUARIO_GH/react-enterprise-starter
+
+2. **microfrontends-lab** — *POC de micro frontends com Module Federation*  
+   - Shell + remotes independentes, roteamento, shared deps, CI por pacote.  
+   - **Stack**: React, TS, Webpack MF, PNPM workspaces.  
+   - **Link**: https://github.com/SEU_USUARIO_GH/microfrontends-lab
+
+3. **devops-pipelines-templates** — *Templates de CI/CD para apps frontend*  
+   - Build cache, unit/e2e, preview deploy, semver/release notes automáticos.  
+   - **Stack**: GitHub Actions / Azure DevOps, Playwright/Cypress.  
+   - **Link**: https://github.com/SEU_USUARIO_GH/devops-pipelines-templates
+
+---
+
+## ✍️ Conteúdo & Artigos
+- **Arquitetura de Micro Frontends: por onde começar?** *(LinkedIn/Dev.to)*  
+- **3 erros de performance em React que vejo em produção (e como evitar)**  
+- **Pipelines que salvam tempo e evitam deploys desastrosos**
+
+> Publico reflexões técnicas no LinkedIn e artigos curtos em inglês/português.
+
+---
+
+## 📈 Métricas rápidas
+<!-- Substitua SEU_USUARIO_GH pelos seus dados -->
+<p>
+  <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danielcosta42&show_icons=true&count_private=true&hide_title=true" />
+  <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcosta42&layout=compact&langs_count=8" />
+</p>
+
+---
+
+## 📫 Contato
+- 🌐 **LinkedIn**: https://www.linkedin.com/in/danielcostaferreira  
+- 💼 **Upwork**: https://www.upwork.com/freelancers/~0143373a246ef1115d
+- ✉️ **Email**: daniel.cfdutra13@gmail.com
+
+> Aberto a **projetos remotos** e **contratos internacionais (USD/EUR)**.
