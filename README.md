@@ -14,13 +14,13 @@ Dica:
   <a href="https://www.linkedin.com/in/danielcostaferreira" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel%20Costa-0A66C2?logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/SEU_USUARIO_GH" target="_blank">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/SEU_USUARIO_GH?style=social">
+  <a href="https://github.com/danielcosta42" target="_blank">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/danielcosta42?style=social">
   </a>
-  <a href="mailto:seu.email@exemplo.com">
+  <a href="mailto:daniel.cfdutra13@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Contato-Email-informational">
   </a>
-  <a href="https://upwork.com/freelancers/~seu-id" target="_blank">
+  <a href="https://upwork.com/freelancers/~k0143373a246ef1115d" target="_blank">
     <img alt="Upwork" src="https://img.shields.io/badge/Upwork-Open%20to%20Work-14a800?logo=upwork&logoColor=white">
   </a>
 </p>
@@ -112,7 +112,7 @@ I turn complexity into clean, maintainable interfaces with strong emphasis on **
 
 ## 📫 Contato
 - 🌐 **LinkedIn**: https://www.linkedin.com/in/danielcostaferreira  
-- 💼 **Upwork**: https://www.upwork.com/freelancers/~0143373a246ef1115d
+- 💼 **Upwork**: https://www.upwork.com/freelancers/~k0143373a246ef1115d
 - ✉️ **Email**: daniel.cfdutra13@gmail.com
 
 > Aberto a **projetos remotos** e **contratos internacionais (USD/EUR)**.
