@@ -71,7 +71,7 @@ I turn complexity into clean, maintainable interfaces with strong emphasis on **
 - 🤝 **Colaboração**: padrões de PR, documentação viva, handoffs eficientes entre squads.
 
 ---
-
+<!--
 ## 📦 Projetos em Destaque
 > *Adapte com seus repositórios públicos. Se algum projeto é privado, use prints e descrição anônima.*
 
@@ -91,7 +91,7 @@ I turn complexity into clean, maintainable interfaces with strong emphasis on **
    - **Link**: https://github.com/SEU_USUARIO_GH/devops-pipelines-templates
 
 ---
-
+-->
 ## ✍️ Conteúdo & Artigos
 - **Arquitetura de Micro Frontends: por onde começar?** *(LinkedIn/Dev.to)*  
 - **3 erros de performance em React que vejo em produção (e como evitar)**  
