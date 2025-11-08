@@ -20,7 +20,7 @@ Dica:
   <a href="mailto:daniel.cfdutra13@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Contato-Email-informational">
   </a>
-  <a href="https://upwork.com/freelancers/~k0143373a246ef1115d" target="_blank">
+  <a href="https://upwork.com/freelancers/~0143373a246ef1115d" target="_blank">
     <img alt="Upwork" src="https://img.shields.io/badge/Upwork-Open%20to%20Work-14a800?logo=upwork&logoColor=white">
   </a>
 </p>
@@ -112,7 +112,7 @@ I turn complexity into clean, maintainable interfaces with strong emphasis on **
 
 ## 📫 Contato
 - 🌐 **LinkedIn**: https://www.linkedin.com/in/danielcostaferreira  
-- 💼 **Upwork**: https://www.upwork.com/freelancers/~k0143373a246ef1115d
+- 💼 **Upwork**: https://www.upwork.com/freelancers/~0143373a246ef1115d
 - ✉️ **Email**: daniel.cfdutra13@gmail.com
 
 > Aberto a **projetos remotos** e **contratos internacionais (USD/EUR)**.
