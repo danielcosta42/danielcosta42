@@ -71,38 +71,8 @@ I turn complexity into clean, maintainable interfaces with strong emphasis on **
 - 🤝 **Colaboração**: padrões de PR, documentação viva, handoffs eficientes entre squads.
 
 ---
-<!--
-## 📦 Projetos em Destaque
-> *Adapte com seus repositórios públicos. Se algum projeto é privado, use prints e descrição anônima.*
-
-1. **react-enterprise-starter** — *Boilerplate de arquitetura enterprise para React/TS*  
-   - Módulos por domínio, lint & test pipeline, storybook, padrões de pastas, husky, commitlint.  
-   - **Stack**: React, TS, Vite/Next, RTL/Jest, Storybook, GH Actions.  
-   - **Link**: https://github.com/SEU_USUARIO_GH/react-enterprise-starter
-
-2. **microfrontends-lab** — *POC de micro frontends com Module Federation*  
-   - Shell + remotes independentes, roteamento, shared deps, CI por pacote.  
-   - **Stack**: React, TS, Webpack MF, PNPM workspaces.  
-   - **Link**: https://github.com/SEU_USUARIO_GH/microfrontends-lab
-
-3. **devops-pipelines-templates** — *Templates de CI/CD para apps frontend*  
-   - Build cache, unit/e2e, preview deploy, semver/release notes automáticos.  
-   - **Stack**: GitHub Actions / Azure DevOps, Playwright/Cypress.  
-   - **Link**: https://github.com/SEU_USUARIO_GH/devops-pipelines-templates
-
----
--->
-## ✍️ Conteúdo & Artigos
-- **Arquitetura de Micro Frontends: por onde começar?** *(LinkedIn/Dev.to)*  
-- **3 erros de performance em React que vejo em produção (e como evitar)**  
-- **Pipelines que salvam tempo e evitam deploys desastrosos**
-
-> Publico reflexões técnicas no LinkedIn e artigos curtos em inglês/português.
-
----
 
 ## 📈 Métricas rápidas
-<!-- Substitua SEU_USUARIO_GH pelos seus dados -->
 <p>
   <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danielcosta42&show_icons=true&count_private=true&hide_title=true" />
   <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcosta42&layout=compact&langs_count=8" />
