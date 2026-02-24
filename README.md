@@ -11,18 +11,10 @@ Dica:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/danielcostaferreira" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel%20Costa-0A66C2?logo=linkedin&logoColor=white">
-  </a>
-  <a href="https://github.com/danielcosta42" target="_blank">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/danielcosta42?style=social">
-  </a>
-  <a href="mailto:daniel.cfdutra13@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Contato-Email-informational">
-  </a>
-  <a href="https://upwork.com/freelancers/~0143373a246ef1115d" target="_blank">
-    <img alt="Upwork" src="https://img.shields.io/badge/Upwork-Open%20to%20Work-14a800?logo=upwork&logoColor=white">
-  </a>
+  <a href="https://www.linkedin.com/in/danielcostaferreira" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel%20Costa-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/danielcosta42" target="_blank"><img alt="GitHub Followers" src="https://img.shields.io/github/followers/danielcosta42?style=social"></a>
+  <a href="mailto:daniel.cfdutra13@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Contato-Email-informational"></a>
+  <a href="https://upwork.com/freelancers/~0143373a246ef1115d" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-Open%20to%20Work-14a800?logo=upwork&logoColor=white"></a>
 </p>
 
 ---
