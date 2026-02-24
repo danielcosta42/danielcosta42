@@ -52,15 +52,7 @@ I turn complexity into clean, maintainable interfaces with strong emphasis on **
 ---
 
 ## 🧰 Tech & Tools
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"> 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white">
-<img src="https://img.shields.io/badge/Testing-Jest%20%7C%20RTL-C21325">
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white"> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?logo=azuredevops&logoColor=white"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white"> <img src="https://img.shields.io/badge/Testing-Jest%20%7C%20RTL-C21325">
 
 ---
 
