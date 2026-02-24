@@ -66,8 +66,7 @@ I turn complexity into clean, maintainable interfaces with strong emphasis on **
 
 ## 📈 Métricas rápidas
 <p>
-  <img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=danielcosta42&show_icons=true&count_private=true&hide_title=true" />
-  <img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcosta42&layout=compact&langs_count=8" />
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcosta42&show_icons=true&theme=radical)
 </p>
 
 ---
