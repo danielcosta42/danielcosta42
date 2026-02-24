@@ -64,13 +64,6 @@ I turn complexity into clean, maintainable interfaces with strong emphasis on **
 
 ---
 
-## 📈 Métricas rápidas
-<p>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielcosta42&show_icons=true&theme=radical)
-</p>
-
----
-
 ## 📫 Contato
 - 🌐 **LinkedIn**: https://www.linkedin.com/in/danielcostaferreira  
 - 💼 **Upwork**: https://www.upwork.com/freelancers/~0143373a246ef1115d
